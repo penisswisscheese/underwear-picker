@@ -1,1 +1,1 @@
-A web app to help you pick what color underwear to ware.
+A webapp to help you pick what color underwear to ware.
